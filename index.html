@@ -1,0 +1,22 @@
+</!DOCTYPE html>
+<html>
+<head>
+<script src="https://content.jwplatform.com/libraries/Fp2hXm3I.js"> </script>
+	<title>JW Player Easy Assignment- Alvin Lawson</title>
+</head>
+<body>
+<div id="player"></div>
+<script type="text/javascript">
+jwplayer("player").setup({
+    "file": "https://s3.amazonaws.com/bob.jwplayer.com/~test/assets/EasyVideo.mp4",
+    "image": "https://s3.amazonaws.com/bob.jwplayer.com/~test/assets/EasyImage.jpg",
+    "height": 360,
+    "width": 640
+})
+jwplayer().on('complete',function() {
+    alert("thanks for watching!");
+});
+</script>
+</body>
+
+</html>
