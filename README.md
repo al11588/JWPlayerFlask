@@ -4,7 +4,7 @@
 
 I used the JW Player API in the Python Flask Framework to play a basic MP4 video. 
 
-![Imade of website](https://raw.githubusercontent.com/al11588/JWPlayerFlask/master/image.png)
+![Imade of website](https://raw.githubusercontent.com/al11588/JWPlayerFlask/master/image.png?token=AFM1uLuX0uQb4bhsTJ4ugxEUQWkKT9XNks5b3__SwA%3D%3D)
 
 # Programming Stack: 
 *	**Languages Used**: Python and JavaScript.
