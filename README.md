@@ -1,4 +1,4 @@
-# JW Player inside of Flask
+# JW Player in Flask
 
 # Description 
 
